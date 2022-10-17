@@ -1,1 +1,1 @@
-# dosei-os
+# dosei operating system
