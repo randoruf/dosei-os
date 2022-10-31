@@ -1,5 +1,7 @@
 # dosei operating system
 
+## Related Courses 
+- [ ] 
 
 
 ## Features 
@@ -10,16 +12,6 @@
 - [ ] LLVM tool chain porting 
 - [ ] install other libraries to make it run on X86 embedded system 
 - [ ] host a website (by nginx)
-
-## Labs to do 
-- [ ] Lab 1 
-- [ ] Lab 2 
-- [ ] Lab 3 
-- [ ] Lab 4 
-- [ ] Lab 5 
-- [ ] Lab 6 
-- [ ] Lab 7 
-
 
 ## Learn MIT 6.S081 or MIT 6.828 ? 
 * 6.S081    (RISC-V)
