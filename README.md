@@ -1,15 +1,4 @@
-# dosei operating system
-
-
-
-## Features 
-- [ ] kernel
-- [ ] file system
-- [ ] POSIX and system call (LKL ?)
-- [ ] musl-libc porting 
-- [ ] LLVM tool chain porting 
-- [ ] install other libraries to make it run on X86 embedded system 
-- [ ] host a website (by nginx)
+# MIT 6.828 (X86 labs)
 
 ## Labs to do 
 - [ ] Lab 1 
@@ -20,6 +9,10 @@
 - [ ] Lab 6 
 - [ ] Lab 7 
 
+## Links 
+
+- MIT 6.828 Operating System Engineering <https://pdos.csail.mit.edu/6.828/2018/schedule.html> 
+- MIT 6.S081 by Ray-Eldath(an awesome geek, see his blog) https://github.com/Ray-Eldath/MIT6.S081
 
 ## Learn MIT 6.S081 or MIT 6.828 ? 
 * 6.S081    (RISC-V)
@@ -32,7 +25,3 @@
 > 并发表了一篇ODSI2008论文Corey: An operating system for many cores，
 > 该论文也是陈老师至今引用最高的论文。而后，IPADS老师也基于6.828的资源，在上海交通大学软件学院开设了多年操作系统课程。
 
-## Links 
-
-- MIT 6.828 Operating System Engineering <https://pdos.csail.mit.edu/6.828/2018/schedule.html> 
-- MIT 6.S081 by Ray-Eldath(an awesome geek, see his blog) https://github.com/Ray-Eldath/MIT6.S081
