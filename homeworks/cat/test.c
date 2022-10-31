@@ -11,7 +11,7 @@ int main() {
     if (fork() == 0) {
         close(0); // close stdin
         open("input.txt", O_RDONLY); // the stdin now is redirected to "input.txt"
-        execv("cat", argv); 
+        execv("cat", argv); // should be exec in Linux
         exit(0);
     }else{
         wait(0);
