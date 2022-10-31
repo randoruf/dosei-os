@@ -9,8 +9,8 @@ int main() {
     argv[0] = "cat";
     argv[1] = 0;
     if (fork() == 0) {
-        close(0);
-        open("input.txt", O_RDONLY);
+        close(0); // close stdin
+        open("input.txt", O_RDONLY); // the stdin now is redirected to "input.txt"
         execv("cat", argv); 
         exit(0);
     }else{
