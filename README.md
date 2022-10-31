@@ -1,5 +1,6 @@
 # dosei (土星) operating system
 
+Labs and lectures notes to learn operating system.
 
 ## Learn MIT 6.S081 or MIT 6.828 ? 
 
