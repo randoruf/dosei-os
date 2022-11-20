@@ -1,6 +1,6 @@
 # dosei (土星) operating system
 
-> What I cannot create I do not understand
+> **What I cannot create I do not understand**
 > 
 > by Richard P. Feynman
 
