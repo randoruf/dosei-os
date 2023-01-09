@@ -1,6 +1,7 @@
 # DAY 2 : Interrupts, IDT, GDT
 
 - intermezzOS *Transitioning to Long Mode* : <https://intermezzos.github.io/book/first-edition/transitioning-to-long-mode.html>
+- 老司机带你探索内核编译系统 <https://richardweiyang-2.gitbook.io/kernel-exploring/00_index>
 - Building an OS - 8 - Interrupts, IDT, GDT <https://www.youtube.com/watch?v=5LbXClJhxcs>
 - Entering 64-Bit Long Mode | Make a 64 bit OS From Scratch!! | Part 5 <https://www.youtube.com/watch?v=sk_ngabpwXQ>
 - Write Your Own 64-bit Operating System Kernel #2 - Stack, long mode and printing using C code <https://www.youtube.com/watch?v=wz9CZBeXR6U>
