@@ -1,8 +1,17 @@
 # dosei (土星) operating system
 
+
 > **What I cannot create I do not understand**
 > 
 > by Richard P. Feynman
+
+
+## 可参考资料
+
+- Building an OS - 8 - Interrupts, IDT, GDT <https://www.youtube.com/watch?v=5LbXClJhxcs>
+- Making an OS - Update, Resources, Future of the Series - Daedalus Community <https://www.youtube.com/watch?v=pXrvCwqqI3E>
+- Real Hardware - How to Make an OS - Poncho <https://www.youtube.com/watch?v=VmF2Eg1VtxQ>
+
 
 ## Learn MIT 6.S081 or MIT 6.828 ? 
 
