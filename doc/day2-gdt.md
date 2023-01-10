@@ -1,5 +1,9 @@
 # DAY 2 : Interrupts, IDT, GDT
 
+
+![](2023-01-10-23-04-12.png)
+
+
 - intermezzOS *Transitioning to Long Mode* : <https://intermezzos.github.io/book/first-edition/transitioning-to-long-mode.html>
 - 老司机带你探索内核编译系统 <https://richardweiyang-2.gitbook.io/kernel-exploring/00_index>
 - Linux Inside <https://0xax.gitbooks.io/linux-insides/content/>
