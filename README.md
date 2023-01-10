@@ -10,6 +10,7 @@
 
 - OpenSecurity Training <https://www.youtube.com/@OpenSecurityTraining/playlists>
   - OpenSecurity Training is for computer security students 
+  - **OpenSecurity Architecture 1001 will intro CMU Bomb Lab**
 - Building an OS - 8 - Interrupts, IDT, GDT <https://www.youtube.com/watch?v=5LbXClJhxcs>
 - Making an OS - Update, Resources, Future of the Series - Daedalus Community <https://www.youtube.com/watch?v=pXrvCwqqI3E>
 - Real Hardware - How to Make an OS - Poncho <https://www.youtube.com/watch?v=VmF2Eg1VtxQ>
