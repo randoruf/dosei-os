@@ -1,4 +1,4 @@
-# dosei (土星) operating system
+# supernova operating system
 
 
 > **What I cannot create I do not understand**
