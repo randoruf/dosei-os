@@ -1,8 +1,6 @@
 # DAY 2 : Interrupts, IDT, GDT
 
 
-![](2023-01-10-23-04-12.png)
-
 - Intel Processor Execution Modes - Architecture 2001: Intel x86-64 OS Internals <https://www.youtube.com/watch?v=tIigDA744mw&list=PLUFkSN0XLZ-myVyCmMvfz_W5Z5SauI3cN&index=3>
 - intermezzOS *Transitioning to Long Mode* : <https://intermezzos.github.io/book/first-edition/transitioning-to-long-mode.html>
 - 老司机带你探索内核编译系统 <https://richardweiyang-2.gitbook.io/kernel-exploring/00_index>
@@ -51,7 +49,13 @@ Booting     -->     Real Mode        --> Protected Mode (32-bits) --> Long Mode 
             -->  BIOS and Bootloader --> Bootloader / OS          --> OS
 ```
 
+The AMD programmer manual is usually more accessible (compared to Intel)
 
+
+![](2023-01-11-09-01-44.png)
+
+
+![](2023-01-10-23-04-12.png)
 
 ## Enclave Mode 
 
