@@ -43,6 +43,16 @@ As this mode is for 64-bit applications, it is called **Long Mode**.
 <https://wiki.osdev.org/Setting_Up_Long_Mode>
 
 
+In conclusion, the state transition diagram looks like 
+
+```
+Booting     -->     Real Mode        --> Protected Mode (32-bits) --> Long Mode (64-bits)
+
+            -->  BIOS and Bootloader --> Bootloader / OS          --> OS
+```
+
+
+
 ## Enclave Mode 
 
 Some processor models are equipped with security extensions, for example SGX or TrustZone. 
