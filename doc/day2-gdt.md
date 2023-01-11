@@ -28,19 +28,24 @@ The earliest X86 application, for example **BIOS**.
 
 ## 32-bit Protected Mode 
 
-
-如何从 'protected mode' 到 'long mode' 呢? 
+The mode for 32-bit applications (see how to transition from protected mode to long mode)
 
 - Set up something called ‘paging’.
 - Set up something called a ‘GDT’.
 - Jump to long mode.
 
-
-## Paging (TLB)
-
-
 ## 64-bit Long Mode 
 
+For backward compatibility, `x86_64` itself is a new mode. 
+
+As this mode is for 64-bit applications, it is called **Long Mode**. 
+
 <https://wiki.osdev.org/Setting_Up_Long_Mode>
+
+
+## Enclave Mode 
+
+Some processor models are equipped with security extensions, for example SGX or TrustZone. 
+
 
 
